@@ -9,3 +9,8 @@ This article definitely helps me understand the practicality of the frameworks t
 It is definitely true that we can choose not to use any such frameworks, but as the articles suggests, using them is the smarter approach since, in comparison to libraries, they allow for more control and understanding of the code and help us develop software considerably faster and with a personal touch much more easily.
 
 It also helps me understand on why companies require Software Engineers to have prior knowledge or experience with such frameworks.
+
+### Edits by Ishmal
+It is indeed very beneficial to spend time to learn the operation of a framework as in the long run it pays off; more work could be done in a shorter time with much better quality.
+
+However, it is also important to stay updated with the frameworks because some JavaScript frameworks become outdated very quickly requiring additional time and effort to deal with arising problems.
